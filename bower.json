@@ -5,7 +5,7 @@
   ],
   "description": "Note: This is just for testing purpose.",
   "main": "dist/bundle.js",
-  "license": "MIT",
+  "license": "ISC",
   "homepage": "",
   "ignore": [
     "**/.*",

@@ -1,0 +1,11 @@
+{
+  "name": "piglovesyou-add-function",
+  "version": "0.0.1",
+  "license": "ISC",
+  "scripts": {
+    "build": "NODE_ENV=production webpack"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  }
+}
