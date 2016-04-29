@@ -1,0 +1,17 @@
+{
+  "name": "piglovesyou-add-function",
+  "authors": [
+    "thepiglovesyou@gmail.com"
+  ],
+  "description": "Note: This is just for testing purpose.",
+  "main": "dist/bundle.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
